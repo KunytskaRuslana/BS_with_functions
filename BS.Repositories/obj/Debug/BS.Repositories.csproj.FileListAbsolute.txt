@@ -1,0 +1,14 @@
+D:\Kunytska\24_05_15\BS\BS.Repositories\bin\Debug\BS.Repositories.dll
+D:\Kunytska\24_05_15\BS\BS.Repositories\bin\Debug\BS.Repositories.pdb
+D:\Kunytska\24_05_15\BS\BS.Repositories\bin\Debug\BS.Entities.dll
+D:\Kunytska\24_05_15\BS\BS.Repositories\bin\Debug\BS.Entities.pdb
+D:\Kunytska\24_05_15\BS\BS.Repositories\obj\Debug\BS.Repositories.csprojResolveAssemblyReference.cache
+D:\Kunytska\24_05_15\BS\BS.Repositories\obj\Debug\BS.Repositories.dll
+D:\Kunytska\24_05_15\BS\BS.Repositories\obj\Debug\BS.Repositories.pdb
+D:\ШАГ\Семестр_3_new\WPF\BS_New_20_06_15\BS\BS.Repositories\bin\Debug\BS.Repositories.dll
+D:\ШАГ\Семестр_3_new\WPF\BS_New_20_06_15\BS\BS.Repositories\bin\Debug\BS.Repositories.pdb
+D:\ШАГ\Семестр_3_new\WPF\BS_New_20_06_15\BS\BS.Repositories\bin\Debug\BS.Entities.dll
+D:\ШАГ\Семестр_3_new\WPF\BS_New_20_06_15\BS\BS.Repositories\bin\Debug\BS.Entities.pdb
+D:\ШАГ\Семестр_3_new\WPF\BS_New_20_06_15\BS\BS.Repositories\obj\Debug\BS.Repositories.csprojResolveAssemblyReference.cache
+D:\ШАГ\Семестр_3_new\WPF\BS_New_20_06_15\BS\BS.Repositories\obj\Debug\BS.Repositories.dll
+D:\ШАГ\Семестр_3_new\WPF\BS_New_20_06_15\BS\BS.Repositories\obj\Debug\BS.Repositories.pdb
